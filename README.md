@@ -16,7 +16,7 @@ preferences.
 
 ## Demo
 
-[Live Demo](https://medieinstitutet.github.io/fed22d-grafiska-verktyg-bruschettan/)
+[Live Demo](https://github.com/existenztim/Graphical-design-tools-coding-a-design/)
 
 ## The coding team
 
