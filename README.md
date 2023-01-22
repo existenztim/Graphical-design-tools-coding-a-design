@@ -15,8 +15,8 @@ preferences.
 ![](https://img.shields.io/badge/-Javascript-f7df1e?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black) ![](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) ![](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 
 ## Demo
-
-[Live Demo](https://github.com/existenztim/Graphical-design-tools-coding-a-design/)
+            
+[Live Demo](https://existenztim.github.io/Graphical-design-tools-coding-a-design/)
 
 ## The coding team
 
